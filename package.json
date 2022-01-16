@@ -1,0 +1,23 @@
+{
+  "name": "cloudupdatedapi",
+  "version": "1.0.0",
+  "description": "API for CloudUpdater app",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node ./main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aggalatis/CloudUpdatedAPI.git"
+  },
+  "keywords": [
+    "CloudUpdater"
+  ],
+  "author": "AG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aggalatis/CloudUpdatedAPI/issues"
+  },
+  "homepage": "https://github.com/aggalatis/CloudUpdatedAPI#readme"
+}
